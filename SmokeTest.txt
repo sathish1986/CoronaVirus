@@ -1,1 +1,2 @@
-1St script completed
+1St script completed successfully.
+2d script completed
